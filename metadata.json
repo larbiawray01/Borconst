@@ -1,0 +1,7 @@
+{
+  "name": "BORA Construction Corporate Platform",
+  "description": "منصة رقمية متكاملة لشركة بورا كونستراكشن المغربية، تدعم لغات متعددة وتتميز بتصميم هندسي قوي.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
